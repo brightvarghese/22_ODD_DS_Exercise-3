@@ -11,10 +11,10 @@ To solve this challenge, we must first take each character in  𝑠 , enqueue it
 # Input Format
 You do not need to read anything from stdin. The stub code in your editor reads a single line containing string *s*. It then calls the methods specified above to pass each character to your instance variables.
 # Constraints
-* *s* is composed of lowercase English letters.
+* *text* is composed of lowercase English letters.
 #Output Format
 You are not responsible for printing any output to stdout. 
-If your code is correctly written and *s* is a palindrome, the stub code will print **The word, s, is a palindrome.**; otherwise, it will print **The word, s, is not a palindrome.**
+If your code is correctly written and *text* is a palindrome, the stub code will print **The word, text, is a palindrome.**; otherwise, it will print **The word, text, is not a palindrome.**
 # Sample Input
 rotator
 # Sample Output
